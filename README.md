@@ -13,4 +13,3 @@ This project is built with:
 - Lucide React (Icons)
 - Zustand (State Management)
 - ESLint
-# portfolio
